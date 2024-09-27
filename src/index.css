@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
